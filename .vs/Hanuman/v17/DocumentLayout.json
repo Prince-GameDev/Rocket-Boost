@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\princ\\Saved Games\\Hanuman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|C:\\Users\\princ\\Saved Games\\Hanuman\\assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|C:\\Users\\princ\\Saved Games\\Hanuman\\assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collisionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|c:\\users\\princ\\saved games\\hanuman\\assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA55681-4316-7AA9-811A-40CDF90807DF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oscillator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 312,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Oscillator.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\Oscillator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Oscillator.cs",
+              "ToolTip": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\Oscillator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Oscillator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T06:13:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollisionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollisionHandler.cs",
+              "ToolTip": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\CollisionHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollisionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T08:58:28.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movement.cs",
+              "DocumentMoniker": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\Movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Movement.cs",
+              "ToolTip": "C:\\Users\\princ\\Saved Games\\Hanuman\\Assets\\Scripts\\Movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Movement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T06:11:03.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 74,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
